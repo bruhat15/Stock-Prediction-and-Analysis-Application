@@ -1,4 +1,4 @@
-                                                                            Stock Prediction and Analysis Application
+Stock Prediction and Analysis Application
 
 The system combines Long Short-Term Memory (LSTM) neural networks for time series prediction, Streamlit for an intuitive frontend interface, and Yahoo Finance (yfinance) for fetching real-time stock data.
 
